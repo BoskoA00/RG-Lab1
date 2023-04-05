@@ -1,0 +1,17 @@
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\bin\Debug\netcoreapp3.1\LabVez1.exe
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\bin\Debug\netcoreapp3.1\LabVez1.deps.json
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\bin\Debug\netcoreapp3.1\LabVez1.runtimeconfig.json
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\bin\Debug\netcoreapp3.1\LabVez1.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\bin\Debug\netcoreapp3.1\LabVez1.dll
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\bin\Debug\netcoreapp3.1\LabVez1.pdb
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.Form1.resources
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.dll
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.pdb
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\LabVez1\LabVez1\obj\Debug\netcoreapp3.1\LabVez1.Properties.Resources.resources
